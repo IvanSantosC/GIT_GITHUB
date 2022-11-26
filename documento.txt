@@ -2,4 +2,5 @@ Generar documentacion para el software de la empresa
 
 las funcionalidades son las siguientes:
 
-1.-
+1.-Gernerar un archivo de texto plano con los datos de los clientes.
+2.-Visualizar los datos de los clientes en una tabla.
